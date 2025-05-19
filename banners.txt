@@ -1,0 +1,3 @@
+apache struts 2.0.1
+nginx 1.18.0
+php 7.4
