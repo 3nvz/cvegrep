@@ -24,3 +24,8 @@ python3 cvegrep.py -f banners.txt
 - git clone https://github.com/yourusername/cvegrep.git
 - cd cvegrep
 - pip3 install -r requirements.txt
+
+# Disclaimer
+This tool is intended for educational and authorized security research purposes only.
+Do not use this tool on systems you do not own or have explicit permission to test.
+Always stay legal. Hack the planet responsibly
